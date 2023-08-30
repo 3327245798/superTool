@@ -1,0 +1,1 @@
+import{d as t,r as n,_ as o,c as s,t as r,o as a}from"./index-2419965a.js";const c=t({name:"Welcome",setup(){return{title:n("欢迎来到首页")}}});function i(e,p,l,d,f,m){return a(),s("h1",null,r(e.$t("index.msg")),1)}const u=o(c,[["render",i]]);export{u as default};

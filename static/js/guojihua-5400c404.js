@@ -1,0 +1,1 @@
+import{d as t,r as n,_ as a,o as r,c,b as e,t as o}from"./index-2419965a.js";const p=t({setup(){return{msg:n("测试")}}}),l={class:"main"};function i(s,u,d,m,f,_){return r(),c("div",l,[e("p",null,o(s.$t("login.userName")),1),e("p",null,o(s.$t("forgetPassword")),1),e("p",null,o(s.msg),1)])}const $=a(p,[["render",i]]);export{$ as default};
